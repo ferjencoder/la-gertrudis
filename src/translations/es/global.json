@@ -1,0 +1,125 @@
+{
+    "rooms": {
+        "title": "Nuestras habitaciones",
+        "titleRooms": {
+            "magnolia": "Habitación Magnolia",
+            "laurel": "Habitación Laurel",
+            "tilo": "Habitación Tilo",
+            "glicina": "Habitación Glicina",
+            "granada": "Habitación Granada"
+        },
+        "roomsSubTitle": {
+            "matri": "Habitación Matrimonial",
+            "quad": "Habitación Cuadruple"
+        },
+        "contact": "Consultar",
+        "dryer": "Secador de pelo",
+        "heating": "Calefacción",
+        "towels": "Ropa de blanco",
+        "person": "Para 2 personas",
+        "person4": "Para 4 personas",
+        "bath": {
+            "private": "Baño Privado",
+            "shared": "Baño compartido"
+        },
+        "shower": {
+            "hydro": "Hidromasaje",
+            "simple": "Ducha simple"
+        }
+    },
+    "about": {
+        "titleAboutUs": "Sobre Nosotros",
+        "textAboutUs": "Experimenta la calidez y hospitalidad de La Gertrudis, un destino único en su clase donde cada visitante es tratado con cuidado y atención genuina. Nuestra familia está dedicada a hacerte sentir como en casa, con un enfoque personalizado y amigable que prioriza tu comodidad y satisfacción. Desde el momento en que llegas, iremos más allá para asegurarnos de que tu estadía sea simplemente inolvidable. Ya sea que busques relajarte y descansar, explorar el campo circundante o disfrutar de la deliciosa gastronomía local, estamos aquí para hacer realidad tus sueños. Bienvenido a La Gertrudis, tu hogar lejos del hogar",
+        "titleOurAmenities": "Nuestras Comodidades",
+        "textOurAmenities": "Nos diferenciamos por la atención personalizada para cada huesped que se hospede. También por nuestras comidas y desayunos. Somos un proyecto sustentable y sostenible, siempre cuidando el medio ambiente, valorando actividades rurales como huerta, viñedos, vista de animales de granja entre otras experiencias que no te podes perder. Animate, veni a conocernos.",
+        "sheets": "Ropa de blanco",
+        "breakfast": "Desayuno campero incluido",
+        "heating": "Calefacción",
+        "fireplace": "Calefacción a leña",
+        "swim": "Pileta (Verano)",
+        "tv": "TV Satelital ",
+        "farm": "Visitas a la granja"
+    },
+    "nav": {
+        "home": "Inicio",
+        "aboutUs": "Sobre nosotros",
+        "rooms": "Habitaciones",
+        "gallery": "Galería",
+        "book": "Reservar"
+    },
+    "banner": {
+        "title": "¿Ya hiciste tu reserva?",
+        "subtitle": "Veni a descansar",
+        "btnRoom": "Ver habitaciones",
+        "btnBook": "Reservar"
+    },
+    "footer": {
+        "contact": "Contacto",
+        "location": "Ubicación"
+    },
+    "form": {
+        "title": "Envíanos tu consulta",
+        "name": "Nombre",
+        "mail": "Correo electrónico",
+        "message": "Ingresa tu consulta",
+        "send": "Enviar"
+    },
+    "icons": {
+        "mailSent": {
+            "id": 1,
+            "img": "https://res.cloudinary.com/ds0dc8rd0/image/upload/v1684002183/la-gertrudis/iconos/lg-mail-send_njlp4v.svg",
+            "alt": "Ícono de correo enviado."
+        },
+        "close": {
+            "id": 2,
+            "img": "https://res.cloudinary.com/ds0dc8rd0/image/upload/v1684002183/la-gertrudis/iconos/lg-x-circle_tgalut.svg",
+            "alt": "Ícono de círculo con X para cerrar."
+        },
+        "menu": {
+            "id": 3,
+            "img": "https://res.cloudinary.com/ds0dc8rd0/image/upload/v1684006353/la-gertrudis/iconos/lg-menu_he2fmr.svg",
+            "alt": "Ícono de menú."
+        }
+    },
+    "iconsSocial": [
+        {
+            "name": "mail",
+            "img": "https://res.cloudinary.com/ds0dc8rd0/image/upload/v1683999135/la-gertrudis/iconos/lg-envelope_qkye28.svg",
+            "alt": "Ícono de correo electrónico. Contacta a La Gertudis por correo electrónico."
+        },
+        {
+            "name": "instagram",
+            "img": "https://res.cloudinary.com/ds0dc8rd0/image/upload/v1683999135/la-gertrudis/iconos/lg-instagram_ibxdol.svg",
+            "alt": "Ícono de Instagram. Sigue a La Gertudis en Instagram."
+        },
+        {
+            "name": "whatsapp",
+            "img": "https://res.cloudinary.com/ds0dc8rd0/image/upload/v1683999135/la-gertrudis/iconos/lg-whatsapp_dqsiti.svg",
+            "alt": "Ícono de Whatsapp. Contacta a La Gertudis en Whatsapp."
+        }
+    ],
+    "reviews": {
+        "title": "Lo que nuestros huéspedes dicen de nosotros",
+        "review1": {
+            "date": "Hace 7 meses",
+            "comment": "Claudia y Daniel, los dueños, son divinos, siempre con muy buena predisposición y personas de gran calidez. Comida casera hecha por el hijo Ramiro que es chef, un 10/10. Gracias por su hospitalidad y la experiencia de un fin de semana en una casa del 1900. Esteban, Andrea y Victoria."
+        },
+        "review2": {
+            "date": "Hace 11 meses",
+            "comment": "Casa maravillosa con una inmejorable atención de sus dueños. El lugar en el que está ubicada la casa es lo más, para conocer las bodegas de la zona, y las vistas a la cordillera un sueño."
+        },
+        "review3": {
+            "date": "Hace 4 meses",
+            "comment": "Hermoso lugar, muy bien atendido, excelente para relajarse y disfrutar en familia"
+        },
+        "review4": {
+            "date": "Hace 2 años",
+            "comment": "Excelente, volvería y recomiendo! Sus dueños son muy amables, siempre bien predispuestos,dan recomendaciones de lugares y rutas. El desayuno bien caserito. La vista desde el parque invita a relajarse y desconectarse. Ojalá los vea pronto"
+        },
+        "review5": {
+            "date": "Hace 10 meses",
+            "comment": "Hermoso lugar para descansar, paisajes bellisimos, paz y mucha calidez de los dueños. El desayuno con vista a la cordillera exquisito... Disfrutamos mucho la experiencia... Un lugar para volver."
+        },
+        "btnWrite": "Escribe un comentario"
+    }
+}

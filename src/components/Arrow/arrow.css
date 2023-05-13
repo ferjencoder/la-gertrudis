@@ -1,0 +1,53 @@
+.arrow__container {
+    display: inline;
+    position: fixed;
+    right: -370px;
+    bottom: 0;
+    z-index: 100;
+}
+
+.arrow__container a img {
+    width: 15%;
+    transition: all .5s ease;
+
+}
+
+
+.arrow__container a img:hover {
+
+
+    filter: brightness(1.75);
+    filter: contrast(1.75);
+}
+
+
+
+@media only screen and (max-width: 920px) {
+    .arrow__container {
+
+        right: -350px;
+
+    }
+
+    .arrow__container a img {
+        width: 20%;
+
+
+    }
+
+}
+
+@media only screen and (max-width: 641px) {
+
+    .arrow__container {
+
+        right: -430px;
+
+    }
+
+    .arrow__container a img {
+        width: 16%;
+
+
+    }
+}

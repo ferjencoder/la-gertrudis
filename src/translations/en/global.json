@@ -1,0 +1,126 @@
+{
+    "rooms": {
+        "title": "Our Rooms",
+        "titleRooms": {
+            "magnolia": "Magnolia Room",
+            "laurel": "Laurel Room",
+            "tilo": "Tilo Room",
+            "glicina": "Glicina Room",
+            "granada": "Granada Room"
+        },
+        "roomsSubTitle": {
+            "matri": "Matrimonial Room",
+            "quad": "Quad Room"
+        },
+        "contact": "Contact Us",
+        "dryer": "Hair Dryer",
+        "heating": "Heating",
+        "towels": "White sheets",
+        "person": "2-person",
+        "person4": "4-person",
+        "bath": {
+            "private": "Private Bathroom",
+            "shared": "Shared Bathroom"
+        },
+        "shower": {
+            "hydro": "Hydromassage Shower",
+            "simple": "Simple Shower"
+        }
+    },
+    "about": {
+        "titleAboutUs": "About Us",
+        "textAboutUs": "Experience the warmth and hospitality of La Gertrudis, a one-of-a-kind destination where every visitor is treated with genuine care and attention. Our family is dedicated to making you feel right at home, with a personalized and friendly approach that prioritizes your comfort and satisfaction. From the moment you arrive, we'll go above and beyond to ensure that your stay is nothing short of unforgettable. Whether you're looking to relax and unwind, explore the surrounding countryside, or indulge in some delicious local cuisine, we're here to make your dreams a reality. Welcome to La Gertrudis, your home away from home.",
+        "titleOurAmenities": "Our Amenities",
+        "textOurAmenities": "We differentiate ourselves by personalized attention for each guest who stay with us. Also for our meals and breakfasts. We are a sustainable project, always taking care of the environment and valuing rural activities such as orchards, vineyards, sight of farm animals among other experiences that you cannot miss. Come visit us.",
+        "sheets": "White sheets",
+        "breakfast": "Regional Breakfast included",
+        "heating": "Heating",
+        "fireplace": "Wood Fireplace",
+        "swim": "Swimming Pool (Summer)",
+        "tv": "Satelital TV",
+        "farm": "Farm visit"
+    },
+    "nav": {
+        "home": "Home",
+        "aboutUs": "About Us",
+        "rooms": "Rooms",
+        "gallery": "Gallery",
+        "book": "Book"
+    },
+    "banner": {
+        "title": "¿Ready to book?",
+        "subtitle": "Come to relax",
+        "btnRoom": "Check rooms",
+        "btnBook": "Book"
+    },
+    "footer": {
+        "contact": "Contact",
+        "location": "Location"
+    },
+    "form": {
+        "title": "Send us a message",
+        "name": "Name",
+        "mail": "E-Mail",
+        "message": "Message",
+        "send": "Send message"
+    },
+    "icons": {
+        "mailSent": {
+            "id": 1,
+            "img": "https://res.cloudinary.com/ds0dc8rd0/image/upload/v1684002183/la-gertrudis/iconos/lg-mail-send_njlp4v.svg",
+            "alt": "Mail sent icon."
+        },
+        "close": {
+            "id": 2,
+            "img": "https://res.cloudinary.com/ds0dc8rd0/image/upload/v1684002183/la-gertrudis/iconos/lg-x-circle_tgalut.svg",
+            "alt": "Circled X Close icon."
+        },
+        "menu": {
+            "id": 3,
+            "img": "https://res.cloudinary.com/ds0dc8rd0/image/upload/v1684006353/la-gertrudis/iconos/lg-menu_he2fmr.svg",
+            "alt": "Menu icon."
+        }
+    },
+    "iconsSocial": [
+        {
+            "name": "mail",
+            "img": "https://res.cloudinary.com/ds0dc8rd0/image/upload/v1683999135/la-gertrudis/iconos/lg-envelope_qkye28.svg",
+            "alt": "Email icon. Contact La Gertudis by email."
+        },
+        {
+            "name": "instagram",
+            "img": "https://res.cloudinary.com/ds0dc8rd0/image/upload/v1683999135/la-gertrudis/iconos/lg-instagram_ibxdol.svg",
+            "alt": "Instagram icon. Follow La Gertudis in Instagram."
+        },
+        {
+            "name": "whatsapp",
+            "img": "https://res.cloudinary.com/ds0dc8rd0/image/upload/v1683999135/la-gertrudis/iconos/lg-whatsapp_dqsiti.svg",
+            "alt": "Whatsapp icon. Contact La Gertudis in Whatsapp."
+        }
+    ],
+    "reviews": {
+        "title": "What our guests said about us",
+        "review1": {
+            "date": "7 months ago",
+            "comment": "Claudia and Daniel, the owners, are divine, always with a very good predisposition and very warm people. Homemade food made by Ramiro's son who is a chef, a 10/10. Thank you for your hospitality and the experience of a weekend in a 1900 house. Esteban, Andrea and Victoria."
+        },
+        "review2": {
+            "date": "11 months ago",
+            "comment": "Wonderful house with an unbeatable attention from its owners. The place where the house is located is the best, to know the wineries in the area, and the views of the mountain range a dream."
+        },
+        "review3": {
+            "date": "4 months ago",
+            "comment": "Beautiful place, very well attended, excellent to relax and enjoy with family"
+        },
+        "review4": {
+            "date": "2 years ago",
+            "comment": "Excellent, I would return and recommend! Its owners are very friendly, always well predisposed, they give recommendations of places and routes. Breakfast well caserito. The view from the park invites you to relax and disconnect. Hope i see you soon"
+        },
+        "review5": {
+            "date": "10 months ago",
+            "comment": "Beautiful place to rest, beautiful landscapes, peace and a lot of warmth from the owners. Exquisite breakfast overlooking the mountains ... We really enjoyed the experience ... A place to return."
+        },
+        "btnMore": "More",
+        "btnWrite": "Write a review"
+    }
+}

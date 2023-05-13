@@ -1,0 +1,13 @@
+.swiper__content {
+    padding-bottom: 50px;
+}
+
+.swiper__content img {
+    display: block;
+    width: 100%;
+    object-fit: cover;
+}
+
+.swiper-free-mode>.swiper-wrapper {
+    transition-timing-function: linear !important;
+}

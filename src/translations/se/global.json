@@ -1,0 +1,125 @@
+{
+    "rooms": {
+        "title": "Våra rum",
+        "titleRooms": {
+            "magnolia": "Magnolia-rummet",
+            "laurel": "Lagerbladsrummet",
+            "tilo": "Tilorummet",
+            "glicina": "Blåregn-rummet",
+            "granada": "Granatrums"
+        },
+        "roomsSubTitle": {
+            "matri": "Dubbelrum",
+            "quad": "Fyrbäddsrum"
+        },
+        "contact": "Fråga",
+        "dryer": "Hårtork",
+        "heating": "Uppvärmning",
+        "towels": "Lakan ingår",
+        "person": "För 2 personer",
+        "person4": "För 4 personer",
+        "bath": {
+            "private": "Privat badrum",
+            "shared": "Delat badrum"
+        },
+        "shower": {
+            "hydro": "Hydroterapi-dusch",
+            "simple": "Enkel dusch"
+        }
+    },
+    "about": {
+        "titleAboutUs": "Om oss",
+        "textAboutUs": "Upplev värmen och gästfriheten på La Gertrudis, en unik destination där varje besökare behandlas med omsorg och äkta uppmärksamhet. Vår familj är dedikerad till att få dig att känna dig som hemma, med en personlig och vänlig inställning som prioriterar din bekvämlighet och tillfredsställelse. Från det ögonblick du anländer, går vi utöver för att se till att din vistelse är minnesvärd. Oavsett om du vill koppla av och vila, utforska det omgivande landskapet eller njuta av den läckra lokala maten, är vi här för att göra dina drömmar till verklighet. Välkommen till La Gertrudis, ditt hem hemifrån.",
+        "titleOurAmenities": "Våra bekvämligheter",
+        "textOurAmenities": "Vi skiljer oss åt genom personlig service för varje gäst som bor här. Vi är också kända för våra måltider och frukostar. Vi är ett hållbart och miljövänligt projekt och värdesätter landsbygdsaktiviteter som trädgårdsodling, vinodling, besök på bondgårdar bland andra upplevelser som du inte vill missa. Våga, kom och besök oss.",
+        "sheets": "Lakan ingår",
+        "breakfast": "Lantfrukost ingår",
+        "heating": "Uppvärmning",
+        "fireplace": "Vedeldad uppvärmning",
+        "swim": "Swimmingpool (sommar)",
+        "tv": "Satellit-TV",
+        "farm": "Besök på bondgård"
+    },
+    "nav": {
+        "home": "Hem",
+        "aboutUs": "Om oss",
+        "rooms": "Rum",
+        "gallery": "Galleri",
+        "book": "Boka"
+    },
+    "banner": {
+        "title": "Har du gjort din bokning?",
+        "subtitle": "Kom och koppla av",
+        "btnRoom": "Se rummen",
+        "btnBook": "Boka"
+    },
+    "footer": {
+        "contact": "Kontakt",
+        "location": "Plats"
+    },
+    "form": {
+        "title": "Skicka din förfrågan",
+        "name": "Namn",
+        "mail": "E-post",
+        "message": "Skriv din förfrågan",
+        "send": "Skicka"
+    },
+    "icons": {
+        "mailSent": {
+            "id": 1,
+            "img": "https://res.cloudinary.com/ds0dc8rd0/image/upload/v1684002183/la-gertrudis/iconos/lg-mail-send_njlp4v.svg",
+            "alt": "Symbol för skickat e-postmeddelande."
+        },
+        "close": {
+            "id": 2,
+            "img": "https://res.cloudinary.com/ds0dc8rd0/image/upload/v1684002183/la-gertrudis/iconos/lg-x-circle_tgalut.svg",
+            "alt": "Symbol för stängd cirkel med X."
+        },
+        "menu": {
+            "id": 3,
+            "img": "https://res.cloudinary.com/ds0dc8rd0/image/upload/v1684006353/la-gertrudis/iconos/lg-menu_he2fmr.svg",
+            "alt": "Menyikon."
+        }
+    },
+    "iconsSocial": [
+        {
+            "name": "mail",
+            "img": "https://res.cloudinary.com/ds0dc8rd0/image/upload/v1683999135/la-gertrudis/iconos/lg-envelope_qkye28.svg",
+            "alt": "Symbol för e-post. Kontakta La Gertudis via e-post."
+        },
+        {
+            "name": "instagram",
+            "img": "https://res.cloudinary.com/ds0dc8rd0/image/upload/v1683999135/la-gertrudis/iconos/lg-instagram_ibxdol.svg",
+            "alt": "Symbol för Instagram. Följ La Gertudis på Instagram."
+        },
+        {
+            "name": "whatsapp",
+            "img": "https://res.cloudinary.com/ds0dc8rd0/image/upload/v1683999135/la-gertrudis/iconos/lg-whatsapp_dqsiti.svg",
+            "alt": "Symbol för WhatsApp. Kontakta La Gertudis via WhatsApp."
+        }
+    ],
+    "reviews": {
+        "title": "Vad våra gäster säger om oss",
+        "review1": {
+            "date": "För 7 månader sedan",
+            "comment": "Claudia och Daniel, ägarna, är underbara människor med en stor gästfrihet och värme. Maten är hemlagad av sonen Ramiro som är kock, 10/10. Tack för en fantastisk helg i ett hus från 1900-talet. Esteban, Andrea och Victoria."
+        },
+        "review2": {
+            "date": "För 11 månader sedan",
+            "comment": "Underbart hus med fantastisk service från ägarna. Platsen där huset ligger är perfekt för att besöka vingårdar i området, och utsikten mot bergskedjan är drömsk."
+        },
+        "review3": {
+            "date": "För 4 månader sedan",
+            "comment": "Vackert ställe, mycket bra service, utmärkt för att koppla av och njuta av tiden med familjen."
+        },
+        "review4": {
+            "date": "För 2 år sedan",
+            "comment": "Utmärkt, jag skulle återvända och rekommendera! Ägarna är mycket vänliga, ger alltid goda rekommendationer om platser och rutter. Frukosten är hemlagad och god. Utsikten från parken inbjuder till avkoppling och avkoppling. Jag hoppas att jag får träffa er snart igen."
+        },
+        "review5": {
+            "date": "För 10 månader sedan",
+            "comment": "Vackert ställe att koppla av, vackra landskap, frid och mycket värme från ägarna. Frukosten med utsikt mot bergskedjan var utsökt ... Vi njöt verkligen av upplevelsen ... Ett ställe att återvända till."
+        },
+        "btnWrite": "Skriv en kommentar"
+    }
+}

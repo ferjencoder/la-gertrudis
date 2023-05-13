@@ -1,0 +1,266 @@
+.container__title-rooms {
+    background: linear-gradient(0deg, rgba(212, 218, 210, 1) 30%, rgba(255, 255, 255, 0) 40%);
+    height: 14.3rem;
+
+    background: url(https://res.cloudinary.com/ds0dc8rd0/image/upload/v1683927493/la-gertrudis/assets/bg-form_ujlfl0.jpg);
+
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+
+
+.title__rooms {
+
+
+
+    text-align: start;
+    padding: 100px;
+    padding-left: 160px;
+    width: 100%;
+    color: rgb(255, 251, 251);
+    backdrop-filter: blur(6px);
+}
+
+
+.rooms__container {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: stretch;
+    width: 100%;
+    gap: 1rem;
+    background: rgba(212, 218, 210, 1);
+
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.rooms {
+
+    display: grid;
+    place-content: center;
+    place-items: center;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: baseline;
+    align-content: stretch;
+
+    gap: 2rem;
+
+
+}
+
+.rooms__contain-article {
+    display: flex;
+    flex-direction: column;
+    border-radius: 16px;
+    box-shadow: 2px 12px 10px 2px rgba(0, 0, 0, 0.315);
+    justify-content: center;
+    align-items: center;
+    background: rgb(255, 255, 255);
+
+    width: 90%;
+
+}
+
+
+.rooms__contain {
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+
+    justify-content: center;
+    align-items: center;
+}
+
+.rooms__swiper {
+    width: 90%;
+
+}
+
+.rooms__img-title {
+    position: relative;
+    z-index: 100;
+    background: rgba(249, 248, 212, 0.6);
+    width: 45%;
+    font-size: 120%;
+    font-weight: 700;
+    padding: 5px;
+    bottom: 330px;
+    text-align: center;
+    font-family: 'Nunito';
+    border-top-right-radius: 16px;
+    border-bottom-right-radius: 16px;
+
+    box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.356);
+}
+
+.rooms__swiper img {
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    overflow: hidden;
+    width: 100%;
+    z-index: 2;
+    object-fit: cover;
+
+    height: 350px;
+
+}
+
+
+
+.rooms__container-description {
+    display: flex;
+    flex-direction: column;
+    width: 55%;
+    font-size: 16px;
+
+}
+
+.rooms__name {
+    font-family: 'Caladea';
+
+}
+
+.rooms__container-description span {
+    font-size: 90%;
+
+}
+
+.rooms__container-description span p {
+    font-family: 'Nunito';
+
+}
+
+.button__consultar {
+    color: rgb(3, 3, 3);
+    background: rgba(227, 226, 176, 1);
+    padding: 15px;
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+    border-radius: 16px;
+    text-align: center;
+    font-weight: 700;
+
+    transition: all 0.5s ease;
+}
+
+.button__consultar:hover {
+    background: #f5f4c4 !important;
+    box-shadow: 0px 4px 5px rgba(0, 0, 0, 0.336);
+}
+
+.linear {
+    background: rgba(187, 197, 129, 1);
+    width: 100%;
+    border-radius: 10px;
+    height: 3px;
+}
+
+.rooms__container-icons {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    place-content: center;
+
+    margin-top: 20px
+}
+
+.rooms__container-icons span {
+    display: flex;
+    flex-direction: row;
+    justify-content: baseline;
+    align-items: center;
+    gap: 5%;
+}
+
+.rooms__container-icons span img {
+    width: 15%;
+
+
+}
+
+.rooms__contain .swiper .swiper-horizontal>.swiper-pagination-bullets,
+.swiper-pagination-bullets.swiper-pagination-horizontal,
+.swiper-pagination-custom,
+.swiper-pagination-fraction {
+    bottom: 50px;
+}
+
+.rooms__contain .swiper .swiper-pagination-bullet {
+    padding: 10px;
+    background: rgba(62, 92, 65, 1);
+
+}
+
+
+@media only screen and (max-width: 1200px) {
+    .rooms__contain {
+        width: 450px;
+    }
+
+    .rooms__container-description span {
+        font-size: 60%;
+    }
+
+    .rooms__swiper img {
+        height: 250px;
+    }
+
+    .rooms__img-title {
+
+        width: 60%;
+        bottom: 230px;
+
+    }
+}
+
+@media only screen and (max-width: 1023px) {
+
+    .rooms {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+@media only screen and (max-width: 641px) {
+    .rooms__contain {
+        width: 340px;
+    }
+
+    .rooms__container-description span {
+        font-size: 58%;
+    }
+
+    .rooms__swiper img {
+        height: 200px;
+
+    }
+
+    .rooms__img-title {
+        font-size: 13px;
+        width: 60%;
+        bottom: 190px;
+
+    }
+
+    .title__rooms {
+        padding: 100px;
+        padding-left: 40px;
+
+
+    }
+
+    .container__title-rooms {
+
+
+        background-size: 150%;
+
+
+    }
+}

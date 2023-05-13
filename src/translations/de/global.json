@@ -1,0 +1,126 @@
+{
+    "rooms": {
+        "title": "Unsere Zimmer",
+        "titleRooms": {
+            "magnolia": "Magnolia Zimmer",
+            "laurel": "Lorbeerzimmer",
+            "tilo": "Linden Zimmer",
+            "glicina": "Wisteria Zimmer",
+            "granada": "Granada Zimmer"
+        },
+        "roomsSubTitle": {
+            "matri": "Doppelzimmer",
+            "quad": "Vierbettzimmer"
+        },
+        "contact": "Anfragen",
+        "dryer": "Haartrockner",
+        "heating": "Heizung",
+        "towels": "Bettwäsche",
+        "person": "Für 2 Personen",
+        "person4": "Für 4 Personen",
+        "bath": {
+            "private": "Eigenes Bad",
+            "shared": "Gemeinschaftsbad"
+        },
+        "shower": {
+            "hydro": "Whirlpool-Dusche",
+            "simple": "Einfache Dusche"
+        }
+    },
+    "about": {
+        "titleAboutUs": "Über uns",
+        "textAboutUs": "Erleben Sie die Wärme und Gastfreundschaft von La Gertrudis, einem einzigartigen Reiseziel, bei dem jeder Besucher mit Sorgfalt und echtem Interesse behandelt wird. Unsere Familie ist darauf ausgerichtet, Ihnen das Gefühl zu geben, zu Hause zu sein, mit einem personalisierten und freundlichen Ansatz, der Ihre Bequemlichkeit und Zufriedenheit in den Vordergrund stellt. Von dem Moment an, an dem Sie ankommen, werden wir alles daran setzen, um sicherzustellen, dass Ihr Aufenthalt unvergesslich wird. Egal, ob Sie sich entspannen und erholen, die Umgebung erkunden oder die köstliche lokale Küche genießen möchten, wir sind hier, um Ihre Träume wahr werden zu lassen. Willkommen bei La Gertrudis, Ihrem Zuhause fernab von Zuhause.",
+        "titleOurAmenities": "Unsere Annehmlichkeiten",
+        "textOurAmenities": "Wir unterscheiden uns durch die personalisierte Betreuung jedes Gastes, der bei uns übernachtet. Wir sind auch für unser Essen und unsere Frühstücke bekannt. Wir sind ein nachhaltiges und umweltfreundliches Projekt, das sich immer um die Umwelt kümmert und ländliche Aktivitäten wie Gemüsegärten, Weinberge, den Blick auf Bauernhoftiere und andere Erfahrungen schätzt, die Sie nicht verpassen sollten. Seien Sie mutig, kommen Sie uns besuchen.",
+        "sheets": "Bettwäsche",
+        "breakfast": "Ländliches Frühstück inklusive",
+        "heating": "Heizung",
+        "fireplace": "Holzofen",
+        "swim": "Pool (Sommer)",
+        "tv": "Satellitenfernsehen",
+        "farm": "Besuche auf dem Bauernhof"
+    },
+    "nav": {
+        "home": "Startseite",
+        "aboutUs": "Über uns",
+        "rooms": "Zimmer",
+        "gallery": "Galerie",
+        "book": "Buchen"
+    },
+    "banner": {
+        "title": "Bereit zur Buchung?",
+        "subtitle": "Kommen Sie zum Entspannen",
+        "btnRoom": "Zimmer prüfen",
+        "btnBook": "Buchen"
+    },
+    "footer": {
+        "contact": "Kontakt",
+        "location": "Lage"
+    },
+    "form": {
+        "title": "Schicken Sie uns eine Nachricht",
+        "name": "Name",
+        "mail": "E-Mail",
+        "message": "Nachricht",
+        "send": "Nachricht senden"
+    },
+    "icons": {
+        "mailSent": {
+            "id": 1,
+            "img": "https://res.cloudinary.com/ds0dc8rd0/image/upload/v1684002183/la-gertrudis/iconos/lg-mail-send_njlp4v.svg",
+            "alt": "Symbol für gesendete E-Mail."
+        },
+        "close": {
+            "id": 2,
+            "img": "https://res.cloudinary.com/ds0dc8rd0/image/upload/v1684002183/la-gertrudis/iconos/lg-x-circle_tgalut.svg",
+            "alt": "Symbol für geschlossenes X."
+        },
+        "menu": {
+            "id": 3,
+            "img": "https://res.cloudinary.com/ds0dc8rd0/image/upload/v1684006353/la-gertrudis/iconos/lg-menu_he2fmr.svg",
+            "alt": "Menüsymbol."
+        }
+    },
+    "iconsSocial": [
+        {
+            "name": "mail",
+            "img": "https://res.cloudinary.com/ds0dc8rd0/image/upload/v1683999135/la-gertrudis/iconos/lg-envelope_qkye28.svg",
+            "alt": "Symbol für E-Mail. Kontaktiere La Gertudis per E-Mail."
+        },
+        {
+            "name": "instagram",
+            "img": "https://res.cloudinary.com/ds0dc8rd0/image/upload/v1683999135/la-gertrudis/iconos/lg-instagram_ibxdol.svg",
+            "alt": "Symbol für Instagram. Folge La Gertudis auf Instagram."
+        },
+        {
+            "name": "whatsapp",
+            "img": "https://res.cloudinary.com/ds0dc8rd0/image/upload/v1683999135/la-gertrudis/iconos/lg-whatsapp_dqsiti.svg",
+            "alt": "Symbol für WhatsApp. Kontaktiere La Gertudis über WhatsApp."
+        }
+    ],
+    "reviews": {
+        "title": "Was unsere Gäste über uns sagen",
+        "review1": {
+            "date": "Vor 7 Monaten",
+            "comment": "Claudia und Daniel, die Besitzer, sind göttlich, immer mit einer sehr guten Einstellung und sehr warmherzigen Menschen. Das hausgemachte Essen, das von Ramiro's Sohn, der Koch ist, gemacht wird, ist eine 10/10. Vielen Dank für Ihre Gastfreundschaft und die Erfahrung eines Wochenendes in einem Haus von 1900. Esteban, Andrea und Victoria."
+        },
+        "review2": {
+            "date": "Vor 11 Monaten",
+            "comment": "Wunderschönes Haus mit einer unschlagbaren Aufmerksamkeit von seinen Besitzern. Der Ort, an dem sich das Haus befindet, ist der beste, um die Weingüter in der Gegend kennenzulernen, und die Aussicht auf das Gebirge ist ein Traum."
+        },
+        "review3": {
+            "date": "Vor 4 Monaten",
+            "comment": "Schöner Ort, sehr gut betreut, ausgezeichnet zum Entspannen und Genießen mit der Familie"
+        },
+        "review4": {
+            "date": "Vor 2 Jahren",
+            "comment": "Ausgezeichnet, ich würde zurückkehren und empfehlen! Seine Besitzer sind sehr freundlich, immer gut eingestellt, sie geben Empfehlungen für Orte und Routen. Das Frühstück ist gut caserito. Der Blick vom Park aus lädt zum Entspannen und Abschalten ein. Hoffe dich bald zu sehen"
+        },
+        "review5": {
+            "date": "Vor 10 Monaten",
+            "comment": "Schöner Ort zum Ausruhen, schöne Landschaften, Ruhe und viel Wärme von den Besitzern. Exquisites Frühstück mit Blick auf die Berge... Wir haben die Erfahrung wirklich genossen... Ein Ort zum Zurückkehren."
+        },
+        "btnMore": "Mehr",
+        "btnWrite": "Eine Bewertung schreiben"
+    }
+}

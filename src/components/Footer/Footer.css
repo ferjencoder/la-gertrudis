@@ -1,0 +1,78 @@
+.footer {
+    background-image: url(https://res.cloudinary.com/ds0dc8rd0/image/upload/v1683927725/la-gertrudis/banner/Pattern_LaGertrudis_uc34wg.png);
+    background-color: rgba(62, 92, 65);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 64px 0;
+}
+
+.footer>div {
+    display: flex;
+    flex-direction: column;
+}
+
+.svgIcon {
+    height: 32px;
+    width: 32px;
+}
+
+.footerIcons>svg,
+.footerIcons>a {
+    height: 32px;
+    width: 32px;
+    color: #ffff;
+
+}
+
+.footerIcons {
+    width: 144px;
+    display: flex;
+    justify-content: space-between;
+    margin: 24px auto;
+}
+
+.footerSection>h3 {
+    font-family: 'Caladea';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-top: 0;
+    color: #FFFFFF;
+}
+
+.footerSection>span {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+@media only screen and (max-width: 920px) {
+    .footer>div {
+        margin: 16px auto;
+    }
+}
+
+@media only screen and (max-width: 641px) {
+    .footer {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .footer>div {
+        margin: 16px auto;
+    }
+
+    .footerSection2 {
+        width: 187.59px;
+    }
+}

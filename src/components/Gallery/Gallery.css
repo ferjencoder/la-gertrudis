@@ -1,0 +1,28 @@
+.galeryContainer{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 100px 0px 100px 0px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    background-color: #D4DAD2;
+    margin: 0 auto;
+    width: 90%;
+    justify-content: center;
+}
+.swiper-pagination-bullet-active{
+    background-color: black;
+}
+.swiper-button-prev, .swiper-button-next{
+    color: black;
+
+}
+.galeryContainer .swiper .swiper-pagination{
+    top:95%;
+}
+
+.galeryContainer .swiper-slide{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}

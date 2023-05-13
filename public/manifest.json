@@ -1,0 +1,60 @@
+{
+  "name": "La Gertrudis Casa de Campo",
+  "manifest_version": 1.0,
+  "version": 1.2,
+  "short_name": "La Gertrudis",
+  "description": "Discover the warmth and hospitality of La Gertrudis a beautiful country house, where every visitor is treated like family. Enjoy personalized care and attention during your unforgettable stay. Relax, explore, and indulge in local cuisine. Welcome to your home away from home.",
+  "icons": [
+    [
+      {
+        "src": "https://res.cloudinary.com/ds0dc8rd0/image/upload/v1683953690/la-gertrudis/logo/lg-icon-logo-72x72_av6cgo.png",
+        "type": "image/png",
+        "sizes": "72x72"
+      },
+      {
+        "src": "https://res.cloudinary.com/ds0dc8rd0/image/upload/v1683953690/la-gertrudis/logo/lg-icon-logo-76x76_wcfsoq.png",
+        "type": "image/png",
+        "sizes": "76x76"
+      },
+      {
+        "src": "https://res.cloudinary.com/ds0dc8rd0/image/upload/v1683953690/la-gertrudis/logo/lg-icon-logo-120x120_pv48p5.png",
+        "type": "image/png",
+        "sizes": "120x120"
+      },
+      {
+        "src": "https://res.cloudinary.com/ds0dc8rd0/image/upload/v1683953690/la-gertrudis/logo/lg-icon-logo-152x152_cndlcc.png",
+        "type": "image/png",
+        "sizes": "152x152"
+      },
+      {
+        "src": "https://res.cloudinary.com/ds0dc8rd0/image/upload/v1683954291/la-gertrudis/logo/lg-icon-logo-167x167_krtd5z.png",
+        "type": "image/png",
+        "sizes": "167x167"
+      },
+      {
+        "src": "https://res.cloudinary.com/ds0dc8rd0/image/upload/v1683953690/la-gertrudis/logo/lg-icon-logo-180x180_djbth0.png",
+        "type": "image/png",
+        "sizes": "180x180"
+      },
+      {
+        "src": "https://res.cloudinary.com/ds0dc8rd0/image/upload/v1683953690/la-gertrudis/logo/lg-icon-logo-192x192_axbfhd.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "https://res.cloudinary.com/ds0dc8rd0/image/upload/v1683954072/la-gertrudis/logo/lg-icon-logo-384x384_vegpwo.png",
+        "type": "image/png",
+        "sizes": "384x384"
+      },
+      {
+        "src": "https://res.cloudinary.com/ds0dc8rd0/image/upload/v1683953690/la-gertrudis/logo/lg-icon-logo-512x512_ipmjj1.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ]
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}
