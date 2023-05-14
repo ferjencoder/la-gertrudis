@@ -14,7 +14,6 @@ import { useTranslation } from 'react-i18next';
 
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-import { IconInstagram } from '../Icons/IconsSocial';
 
 
 export const Rooms = () => {
@@ -240,8 +239,8 @@ export const Rooms = () => {
 
 
                     <a className="button__consultar" href={item.wpp} target="_blank" rel="noopener noreferrer">
-                      <IconInstagram />
-                      Consultar</a>
+                      {t( "rooms.contact" )}
+                    </a>
                   </div>
 
                 </div>
