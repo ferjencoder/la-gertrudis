@@ -14,6 +14,7 @@ import { useTranslation } from 'react-i18next';
 
 import AOS from 'aos';
 import 'aos/dist/aos.css';
+import { IconInstagram } from '../Icons/IconsSocial';
 
 
 export const Rooms = () => {
@@ -143,10 +144,7 @@ export const Rooms = () => {
     </div>
     <section id="rooms" className="rooms__container">
 
-
-
       <div className="rooms" >
-
 
         {
           roomsJson.map( ( item ) => {
@@ -155,8 +153,6 @@ export const Rooms = () => {
 
                 <div className="rooms__contain" >
 
-
-
                   <Swiper
                     slidesPerView={1}
                     spaceBetween={0}
@@ -164,9 +160,6 @@ export const Rooms = () => {
                     pagination={{
                       clickable: true,
                     }}
-
-
-
                     autoplay={{
                       delay: 3000,
                       disableOnInteraction: true
@@ -246,7 +239,9 @@ export const Rooms = () => {
 
 
 
-                    <a className="button__consultar" href={item.wpp} target="_blank" rel="noopener noreferrer"> <FaWhatsapp /> Consultar</a>
+                    <a className="button__consultar" href={item.wpp} target="_blank" rel="noopener noreferrer">
+                      <IconInstagram />
+                      Consultar</a>
                   </div>
 
                 </div>
