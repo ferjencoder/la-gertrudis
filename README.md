@@ -17,6 +17,10 @@ This project is a **website for La Gertrudis** that showcases the house, its ame
 
 These technologies were carefully selected and integrated to deliver a seamless user experience, responsive design, and multi-language support.
 
+## Website Screenshot
+
+![La Gertrudis Site Screenshot](https://res.cloudinary.com/ds0dc8rd0/image/upload/v1684020301/la-gertrudis/assets/lg-og-1200x630_tinnao.png)
+
 ## Getting Started
 To get started with this project, you can simply clone the repository and run the following commands:
 
