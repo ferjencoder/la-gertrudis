@@ -26,7 +26,7 @@ export const Footer = () => {
                         />
                     </a>
 
-                    <a href="https://wa.me/5492622469691" target="_blank" rel="noopener noreferrer">
+                    <a href="https://wa.me/5492612093631" target="_blank" rel="noopener noreferrer">
 
                         <img
                             className="svgIcon"

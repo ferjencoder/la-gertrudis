@@ -108,7 +108,7 @@ export const Navbar = () => {
             <div className='line'></div>
             <div className="navIcons">
               <a href="mailto:casadecampo.lagertrudis@gmail.com" target="_blank" rel="noopener noreferrer"> <IconMail /></a>
-              <a href="https://wa.me/5492622532153" target="_blank" rel="noopener noreferrer"> <IconWhatsapp /></a>
+              <a href="https://wa.me/5492612093631" target="_blank" rel="noopener noreferrer"> <IconWhatsapp /></a>
               <a href="https://www.instagram.com/lagertrudis.sancarlos/?hl=es" target="_blank" rel="noopener noreferrer"> <IconInstagram /></a>
             </div>
             <a href="/#contact" className='button__reserva'>{t( "nav.book" )}</a>
@@ -153,7 +153,7 @@ export const Navbar = () => {
                 <div className='line'></div>
                 <div className="navIcons">
                   <a href="mailto:casadecampo.lagertrudis@gmail.com" target="_blank" rel="noopener noreferrer"> <IconMail /></a>
-                  <a href="https://wa.me/5492622532153" target="_blank" rel="noopener noreferrer"> <IconWhatsapp /></a>
+                  <a href="https://wa.me/5492612093631" target="_blank" rel="noopener noreferrer"> <IconWhatsapp /></a>
                   <a href="https://www.instagram.com/lagertrudis.sancarlos/?hl=es" target="_blank" rel="noopener noreferrer"> <IconInstagram /></a>
                 </div>
                 <a href="/#contact" className='button__reserva'>{t( "nav.book" )}</a>
@@ -202,7 +202,7 @@ export const Navbar = () => {
                 <div className='line'></div>
                 <div className="navIcons">
                   <a href="mailto:casadecampo.lagertrudis@gmail.com" target="_blank" rel="noopener noreferrer"> <HiOutlineMail /></a>
-                  <a href="https://wa.me/5492622532153" target="_blank" rel="noopener noreferrer"> <IconWhatsapp /></a>
+                  <a href="https://wa.me/5492612093631" target="_blank" rel="noopener noreferrer"> <IconWhatsapp /></a>
                   <a href="https://www.instagram.com/lagertrudis.sancarlos/?hl=es" target="_blank" rel="noopener noreferrer"> <IconInstagram /></a>
                 </div>
                 <a href="/#contact" className='button__reserva'>{t( "nav.book" )}</a>
