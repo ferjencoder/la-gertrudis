@@ -34,7 +34,7 @@ i18next.init( {
       translation: global_se
     }
   }
-} )
+} );
 
 const root = ReactDOM.createRoot( document.getElementById( 'root' ) );
 root.render(

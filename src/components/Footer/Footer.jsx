@@ -26,7 +26,7 @@ export const Footer = () => {
                         />
                     </a>
 
-                    <a href="https://wa.me/5492622532153" target="_blank" rel="noopener noreferrer">
+                    <a href="https://wa.me/5492622469691" target="_blank" rel="noopener noreferrer">
 
                         <img
                             className="svgIcon"
@@ -49,8 +49,7 @@ export const Footer = () => {
 
             <div className="footerSection footerSection2">
                 <h3>{t( "footer.contact" )}</h3>
-                <span>02622 53-2153</span>
-                <span>02622 46-9691</span>
+                <span>+54 9 2622 469 691</span>
             </div>
             <div className="footerSection">
                 <h3>{t( "footer.location" )}</h3>

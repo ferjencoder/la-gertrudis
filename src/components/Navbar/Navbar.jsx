@@ -60,7 +60,7 @@ export const Navbar = () => {
               <a href="mailto:casadecampo.lagertrudis@gmail.com" target="_blank" rel="noopener noreferrer">
                 <IconMail />
               </a>
-              <a href="https://wa.me/5492622532153" target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/5492612093631" target="_blank" rel="noopener noreferrer">
                 <IconWhatsapp />
               </a>
               <a href="https://www.instagram.com/lagertrudis.sancarlos/?hl=es" target="_blank" rel="noopener noreferrer">
